@@ -12,6 +12,7 @@ pygame.display.set_caption('Kast i tyngdefelt')
 farge_svart = (0, 0, 0)
 farge_hvit = (255, 255, 255)
 
+#variabler
 dt = 0.05
 m = 1
 g = 9.8
